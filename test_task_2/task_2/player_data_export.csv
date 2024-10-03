@@ -1,0 +1,7 @@
+player_id,level_title,is_completed,prize_title
+player1,Level 1,Yes,Prize 1
+player1,Level 1,Yes,Prize 1
+player2,Level 1,Yes,Prize 1
+player2,Level 1,Yes,Prize 1
+player1,Level 2,No,Prize 2
+player2,Level 2,Yes,Prize 2
